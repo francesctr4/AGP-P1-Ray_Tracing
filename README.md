@@ -14,7 +14,7 @@ The raycaster has several features amongst the following:
 - Floor / sphere textures (checkerboard, marble, wood, etc)
 - Antialiasing
 
-## Features
+## Implementation
 
 This GLSL shader creates an interactive 3D scene featuring three textured spheres hovering above a reflective checkerboard plane, with dynamic lighting and atmospheric effects.
 
