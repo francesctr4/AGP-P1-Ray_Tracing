@@ -1,6 +1,6 @@
 # Advanced Graphics Programming: P1 - Ray Tracing
 ## Statement
-### Implement a 3D ray tracer on Shadertoy
+### Implement a 3D Ray Tracer on Shadertoy.
 ## Features
 The raycaster needs to have several features amongst the following:
 - Selection of the nearest intersected object
