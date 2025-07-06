@@ -3,7 +3,7 @@
 ## Statement
 ### Implement a 3D Ray Tracer on Shadertoy.
 ## Features
-The raycaster needs to have several features amongst the following:
+The raycaster has several features amongst the following:
 - Selection of the nearest intersected object
 - Camera movement / mouse interaction
 - Local illumination (ambient, diffuse, specular)
