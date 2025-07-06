@@ -7,13 +7,13 @@ intersection could not be analytically computed, but a search over the ray
 should be executed; feel free to ask if you feel motivated).
 ## Features
 The raycaster needs to have several features amongst the following:
-● Selection of the nearest intersected object
-● Camera movement / mouse interaction
-● Local illumination (ambient, diffuse, specular)
-● Hard shadows
-● Reflections
-● Refraction
-● Distance fog
-● Cloudy sky
-● Floor / sphere textures (checkerboard, marble, wood, etc)
-● Antialiasing
+- Selection of the nearest intersected object
+- Camera movement / mouse interaction
+- Local illumination (ambient, diffuse, specular)
+- Hard shadows
+- Reflections
+- Refraction
+- Distance fog
+- Cloudy sky
+- Floor / sphere textures (checkerboard, marble, wood, etc)
+- Antialiasing
