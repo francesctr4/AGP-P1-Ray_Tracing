@@ -1,4 +1,4 @@
-# Advanced Graphics Programming: P1 - Ray Tracing Shader
+# Advanced Graphics Programming: P1 - Ray Tracing
 
 Statement
 Implement a 3D ray tracer as explained in class. Only spheres and planes are
